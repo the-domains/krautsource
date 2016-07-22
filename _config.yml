@@ -1,0 +1,14 @@
+layout_spectrum: 0.6726493129972368
+typography_spectrum: 0.9329074742272496
+color:
+  brandStrength: 0.50014060549438
+  lightness: 0.7326974403113127
+  saturation: 0.656095324549824
+  rhythmicContrast: 0.3627974463161081
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Krautsource
